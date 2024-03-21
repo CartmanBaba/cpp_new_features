@@ -1,0 +1,10 @@
+{
+  "minimal-style@@h1-size": "1.3em",
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-style@@image-muted": 0.9,
+  "minimal-style@@zoom-off": false,
+  "minimal-style@@image-grid-fit": "cover",
+  "minimal-cards-style@@cards-image-height": "400px",
+  "minimal-cards-style@@cards-max-width": "1000px",
+  "minimal-mobile@@mobile-toolbar-off": false
+}

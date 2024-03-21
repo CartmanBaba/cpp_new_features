@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [],
+  "showViewHeader": true,
+  "nativeMenus": false
+}

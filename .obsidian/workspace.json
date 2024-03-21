@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "607f10f77a30cb53",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f33e1d7a17db668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "023f34c04fd9d529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3546f20d3fd76b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85fb40603ae6866a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c4c188e5b225af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bca86a29724a2a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a8ba163a8bf5f5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7caa451247b74b42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd23f337e69f5976",
+    "type": "split",
+    "children": [
+      {
+        "id": "d460dd75e760a723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2061002c54c6cfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e34c10c1b591a4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74fcf6c5413c3f82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "638be96dda7a48bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3546f20d3fd76b1c",
+  "lastOpenFiles": [
+    "每个c++开发人员都应该使用的10个c++ 11特性.md",
+    "在c++项目中你必须真正使用的15个c++特性.md",
+    "如何在 C++11 中使用 Lambda 表达式.md",
+    "README.md",
+    "学习笔记：C++ 11新特性.md",
+    "深入理解C++11.md",
+    "「Notes」C++14新特性浅谈.md"
+  ]
+}
